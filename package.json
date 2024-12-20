@@ -6,8 +6,8 @@
     "scripts": {
       "start": "node index.js"
     },
-    "author": "Wick",
-    "license": "MIT",
+    "author": "hypexilegend",
+    "license": "Non",
     "dependencies": {
       "@discordjs/builders": "^0.14.0",
       "@discordjs/rest": "^2.2.0",
